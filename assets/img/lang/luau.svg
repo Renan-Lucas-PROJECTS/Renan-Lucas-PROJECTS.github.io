@@ -1,0 +1,5 @@
+<svg role="img" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg"><title>Luau</title>
+<!-- monochrome version of the Luau mark (luau-lang/site logo.svg): tilted square with a square notch -->
+<defs><mask id="m"><rect width="52" height="52" fill="#fff"/><rect x="36.6438" y="13.3228" width="8" height="8" rx="0.5" transform="rotate(15 36.6438 13.3228)" fill="#000"/></mask></defs>
+<rect x="11.8579" y="1.5051" width="40" height="40" rx="2" transform="rotate(15 11.8579 1.5051)" mask="url(#m)"/>
+</svg>
